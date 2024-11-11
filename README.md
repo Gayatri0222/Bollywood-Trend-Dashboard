@@ -12,7 +12,8 @@ PowerBI project Bollywood trends.ppix
 2. bollywood_trends_dataset
 
 # Snapshots:
-![image](https://github.com/user-attachments/assets/b9d9cb53-b98e-45cf-8011-d225a24d5be3)
+![image](https://github.com/user-attachments/assets/767397ac-9155-4a70-81d2-6d262d5b996c)
+
 
 # How to open:
 1. Download Power BI Desktop if not already insatlled.
