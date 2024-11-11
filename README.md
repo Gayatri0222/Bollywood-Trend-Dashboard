@@ -22,8 +22,8 @@ PowerBI project Bollywood trends.ppix
 4. once the file is loaded, you can interact with visualization, filter data, and design dashboard.
 
 # Data Preparation
-1.Load the data: Import the boolywood trend dataset.xlsx file into Power BI.
-2.Transform the Data: In Power BI > Power Query Editor, Check for any missing or incorrect value.
+1. Load the data: Import the boolywood trend dataset.xlsx file into Power BI.
+2. Transform the Data: In Power BI > Power Query Editor, Check for any missing or incorrect value.
 3. Apply filter and neccesary filters and slicers for the visaulization, and prepare your dashboard.
    
 
