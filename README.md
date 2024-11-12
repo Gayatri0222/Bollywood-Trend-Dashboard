@@ -13,8 +13,8 @@
 
 
 # Snapshots:
-![image](https://github.com/user-attachments/assets/c44414ff-1926-42b1-a257-7e413098182b)
-![image](https://github.com/user-attachments/assets/2841d304-a9e5-44a2-99ae-174456910f55)
+![image](https://github.com/user-attachments/assets/cb7381a2-7cc1-4b39-ad38-8f6ac41b8f10)
+![image](https://github.com/user-attachments/assets/15520751-e83d-4b75-b998-a36e79a45016)
 
 
 # How to open:
