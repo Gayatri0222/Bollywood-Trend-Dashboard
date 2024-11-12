@@ -12,7 +12,10 @@ PowerBI project Bollywood trends.ppix
 2. bollywood_trends_dataset
 
 # Snapshots:
-![image](https://github.com/user-attachments/assets/767397ac-9155-4a70-81d2-6d262d5b996c)
+![image](https://github.com/user-attachments/assets/c44414ff-1926-42b1-a257-7e413098182b)
+![image](https://github.com/user-attachments/assets/2841d304-a9e5-44a2-99ae-174456910f55)
+
+
 
 
 # How to open:
@@ -25,6 +28,10 @@ PowerBI project Bollywood trends.ppix
 1. Load the data: Import the boolywood trend dataset.xlsx file into Power BI.
 2. Transform the Data: In Power BI > Power Query Editor, Check for any missing or incorrect value.
 3. Apply filter and neccesary filters and slicers for the visaulization, and prepare your dashboard.
+
+ # Conclusion
+ The Bollywood Trends Analysis in Power BI reveals key insights into industry dynamics. Directors like Zoya Akhtar and Rajkumar Hirani lead in box office earnings, while genres such as sports and drama show high average earnings. Trends in ratings and title counts highlight audience preferences, indicating evolving tastes across directors and genres.
+   
    
 
 
