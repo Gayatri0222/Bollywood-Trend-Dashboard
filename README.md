@@ -11,11 +11,10 @@
 1. Power BI Desktop
 2. bollywood_trends_dataset
 
+
 # Snapshots:
 ![image](https://github.com/user-attachments/assets/c44414ff-1926-42b1-a257-7e413098182b)
 ![image](https://github.com/user-attachments/assets/2841d304-a9e5-44a2-99ae-174456910f55)
-
-
 
 
 # How to open:
