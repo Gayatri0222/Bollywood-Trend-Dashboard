@@ -11,6 +11,20 @@
 1. Power BI Desktop
 2. bollywood_trends_dataset
 
+# Questions:
+1.What is the average Box Office Earning by Genre?
+2.Which genre has most number of Title?
+3.Which Director got the highest Rating?
+4.What is the total count of Box Office Earning by genre?
+5.What is the average Box Office Earning of each director?
+6.Which director has the highest box office earning?
+7.From the year 2000 to 2010 which year release the most number of movies(Title)?
+8. Which Title(movie) has the highest Rating?
+
+
+
+
+
 
 # Snapshots:
 ![image](https://github.com/user-attachments/assets/cb7381a2-7cc1-4b39-ad38-8f6ac41b8f10)
