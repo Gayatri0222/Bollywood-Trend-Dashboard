@@ -14,7 +14,8 @@
 
 # Snapshots:
 ![image](https://github.com/user-attachments/assets/cb7381a2-7cc1-4b39-ad38-8f6ac41b8f10)
-![image](https://github.com/user-attachments/assets/15520751-e83d-4b75-b998-a36e79a45016)
+![Uploading image.png…]()
+
 
 
 # How to open:
